@@ -1,0 +1,2 @@
+# AirBnB clone MySQL
+The first phase of a student effort to create an exact replica of the AirBnB website is available in this repository. To manage program data, this step implements a backend interface, sometimes known as a console. The user can manage file storage and create, update, and destroy objects via console commands. Storage is durable between sessions thanks to a JSON serialization and deserialization mechanism.
